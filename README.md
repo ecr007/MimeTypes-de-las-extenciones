@@ -1,6 +1,6 @@
 ## MimeTypes de las extenciones
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table>
 <caption><span class="tablecap">Table 1. Common MIME types</span></caption>
 <thead align="left">
 <tr>
